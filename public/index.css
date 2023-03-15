@@ -1,0 +1,22 @@
+.todo {
+    margin-bottom: 1rem;
+}
+
+.todo span.complete {
+    text-decoration: line-through;
+}
+
+.tolo label {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    background: white;
+    padding: 1rem;
+}
+
+.todo i {
+    z-index: 2;
+}
+
